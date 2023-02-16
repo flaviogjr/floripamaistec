@@ -1,0 +1,15 @@
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\fibonacci\fibonacci\bin\Debug\net7.0\fibonacci.exe
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\fibonacci\fibonacci\bin\Debug\net7.0\fibonacci.deps.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\fibonacci\fibonacci\bin\Debug\net7.0\fibonacci.runtimeconfig.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\fibonacci\fibonacci\bin\Debug\net7.0\fibonacci.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\fibonacci\fibonacci\bin\Debug\net7.0\fibonacci.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\fibonacci\fibonacci\obj\Debug\net7.0\fibonacci.csproj.AssemblyReference.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\fibonacci\fibonacci\obj\Debug\net7.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\fibonacci\fibonacci\obj\Debug\net7.0\fibonacci.AssemblyInfoInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\fibonacci\fibonacci\obj\Debug\net7.0\fibonacci.AssemblyInfo.cs
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\fibonacci\fibonacci\obj\Debug\net7.0\fibonacci.csproj.CoreCompileInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\fibonacci\fibonacci\obj\Debug\net7.0\fibonacci.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\fibonacci\fibonacci\obj\Debug\net7.0\refint\fibonacci.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\fibonacci\fibonacci\obj\Debug\net7.0\fibonacci.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\fibonacci\fibonacci\obj\Debug\net7.0\fibonacci.genruntimeconfig.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\fibonacci\fibonacci\obj\Debug\net7.0\ref\fibonacci.dll

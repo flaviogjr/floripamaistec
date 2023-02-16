@@ -1,0 +1,15 @@
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\buscaPrimo\buscaPrimo\bin\Debug\net7.0\buscaPrimo.exe
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\buscaPrimo\buscaPrimo\bin\Debug\net7.0\buscaPrimo.deps.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\buscaPrimo\buscaPrimo\bin\Debug\net7.0\buscaPrimo.runtimeconfig.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\buscaPrimo\buscaPrimo\bin\Debug\net7.0\buscaPrimo.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\buscaPrimo\buscaPrimo\bin\Debug\net7.0\buscaPrimo.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\buscaPrimo\buscaPrimo\obj\Debug\net7.0\buscaPrimo.csproj.AssemblyReference.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\buscaPrimo\buscaPrimo\obj\Debug\net7.0\buscaPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\buscaPrimo\buscaPrimo\obj\Debug\net7.0\buscaPrimo.AssemblyInfoInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\buscaPrimo\buscaPrimo\obj\Debug\net7.0\buscaPrimo.AssemblyInfo.cs
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\buscaPrimo\buscaPrimo\obj\Debug\net7.0\buscaPrimo.csproj.CoreCompileInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\buscaPrimo\buscaPrimo\obj\Debug\net7.0\buscaPrimo.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\buscaPrimo\buscaPrimo\obj\Debug\net7.0\refint\buscaPrimo.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\buscaPrimo\buscaPrimo\obj\Debug\net7.0\buscaPrimo.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\buscaPrimo\buscaPrimo\obj\Debug\net7.0\buscaPrimo.genruntimeconfig.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\buscaPrimo\buscaPrimo\obj\Debug\net7.0\ref\buscaPrimo.dll

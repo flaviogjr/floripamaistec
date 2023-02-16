@@ -1,0 +1,15 @@
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\listaFrutas\listaFrutas\listaFrutas\bin\Debug\net7.0\listaFrutas.exe
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\listaFrutas\listaFrutas\listaFrutas\bin\Debug\net7.0\listaFrutas.deps.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\listaFrutas\listaFrutas\listaFrutas\bin\Debug\net7.0\listaFrutas.runtimeconfig.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\listaFrutas\listaFrutas\listaFrutas\bin\Debug\net7.0\listaFrutas.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\listaFrutas\listaFrutas\listaFrutas\bin\Debug\net7.0\listaFrutas.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\listaFrutas\listaFrutas\listaFrutas\obj\Debug\net7.0\listaFrutas.csproj.AssemblyReference.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\listaFrutas\listaFrutas\listaFrutas\obj\Debug\net7.0\listaFrutas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\listaFrutas\listaFrutas\listaFrutas\obj\Debug\net7.0\listaFrutas.AssemblyInfoInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\listaFrutas\listaFrutas\listaFrutas\obj\Debug\net7.0\listaFrutas.AssemblyInfo.cs
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\listaFrutas\listaFrutas\listaFrutas\obj\Debug\net7.0\listaFrutas.csproj.CoreCompileInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\listaFrutas\listaFrutas\listaFrutas\obj\Debug\net7.0\listaFrutas.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\listaFrutas\listaFrutas\listaFrutas\obj\Debug\net7.0\refint\listaFrutas.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\listaFrutas\listaFrutas\listaFrutas\obj\Debug\net7.0\listaFrutas.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\listaFrutas\listaFrutas\listaFrutas\obj\Debug\net7.0\listaFrutas.genruntimeconfig.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\buscaPrimo\listaFrutas\listaFrutas\listaFrutas\obj\Debug\net7.0\ref\listaFrutas.dll

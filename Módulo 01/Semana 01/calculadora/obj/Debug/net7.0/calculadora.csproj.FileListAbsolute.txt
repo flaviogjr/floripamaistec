@@ -1,0 +1,30 @@
+D:\Visual Studio\Repositorio\calculadora\obj\Debug\net7.0\calculadora.csproj.AssemblyReference.cache
+D:\Visual Studio\Repositorio\calculadora\obj\Debug\net7.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Repositorio\calculadora\obj\Debug\net7.0\calculadora.AssemblyInfoInputs.cache
+D:\Visual Studio\Repositorio\calculadora\obj\Debug\net7.0\calculadora.AssemblyInfo.cs
+D:\Visual Studio\Repositorio\calculadora\obj\Debug\net7.0\calculadora.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Repositorio\calculadora\bin\Debug\net7.0\calculadora.exe
+D:\Visual Studio\Repositorio\calculadora\bin\Debug\net7.0\calculadora.deps.json
+D:\Visual Studio\Repositorio\calculadora\bin\Debug\net7.0\calculadora.runtimeconfig.json
+D:\Visual Studio\Repositorio\calculadora\bin\Debug\net7.0\calculadora.dll
+D:\Visual Studio\Repositorio\calculadora\bin\Debug\net7.0\calculadora.pdb
+D:\Visual Studio\Repositorio\calculadora\obj\Debug\net7.0\calculadora.dll
+D:\Visual Studio\Repositorio\calculadora\obj\Debug\net7.0\refint\calculadora.dll
+D:\Visual Studio\Repositorio\calculadora\obj\Debug\net7.0\calculadora.pdb
+D:\Visual Studio\Repositorio\calculadora\obj\Debug\net7.0\calculadora.genruntimeconfig.cache
+D:\Visual Studio\Repositorio\calculadora\obj\Debug\net7.0\ref\calculadora.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\calculadora\bin\Debug\net7.0\calculadora.exe
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\calculadora\bin\Debug\net7.0\calculadora.deps.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\calculadora\bin\Debug\net7.0\calculadora.runtimeconfig.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\calculadora\bin\Debug\net7.0\calculadora.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\calculadora\bin\Debug\net7.0\calculadora.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\calculadora\obj\Debug\net7.0\calculadora.csproj.AssemblyReference.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\calculadora\obj\Debug\net7.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\calculadora\obj\Debug\net7.0\calculadora.AssemblyInfoInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\calculadora\obj\Debug\net7.0\calculadora.AssemblyInfo.cs
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\calculadora\obj\Debug\net7.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\calculadora\obj\Debug\net7.0\calculadora.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\calculadora\obj\Debug\net7.0\refint\calculadora.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\calculadora\obj\Debug\net7.0\calculadora.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\calculadora\obj\Debug\net7.0\calculadora.genruntimeconfig.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\calculadora\obj\Debug\net7.0\ref\calculadora.dll

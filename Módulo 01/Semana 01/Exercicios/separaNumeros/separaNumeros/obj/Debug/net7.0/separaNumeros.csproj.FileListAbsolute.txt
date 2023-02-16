@@ -1,0 +1,15 @@
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\separaNumeros\separaNumeros\bin\Debug\net7.0\separaNumeros.exe
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\separaNumeros\separaNumeros\bin\Debug\net7.0\separaNumeros.deps.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\separaNumeros\separaNumeros\bin\Debug\net7.0\separaNumeros.runtimeconfig.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\separaNumeros\separaNumeros\bin\Debug\net7.0\separaNumeros.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\separaNumeros\separaNumeros\bin\Debug\net7.0\separaNumeros.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\separaNumeros\separaNumeros\obj\Debug\net7.0\separaNumeros.csproj.AssemblyReference.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\separaNumeros\separaNumeros\obj\Debug\net7.0\separaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\separaNumeros\separaNumeros\obj\Debug\net7.0\separaNumeros.AssemblyInfoInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\separaNumeros\separaNumeros\obj\Debug\net7.0\separaNumeros.AssemblyInfo.cs
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\separaNumeros\separaNumeros\obj\Debug\net7.0\separaNumeros.csproj.CoreCompileInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\separaNumeros\separaNumeros\obj\Debug\net7.0\separaNumeros.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\separaNumeros\separaNumeros\obj\Debug\net7.0\refint\separaNumeros.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\separaNumeros\separaNumeros\obj\Debug\net7.0\separaNumeros.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\separaNumeros\separaNumeros\obj\Debug\net7.0\separaNumeros.genruntimeconfig.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 01\Exercicios\separaNumeros\separaNumeros\obj\Debug\net7.0\ref\separaNumeros.dll
