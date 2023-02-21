@@ -1,0 +1,15 @@
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioConstrutor\obj\Debug\net7.0\ExercicioConstrutor.csproj.AssemblyReference.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioConstrutor\obj\Debug\net7.0\ExercicioConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioConstrutor\obj\Debug\net7.0\ExercicioConstrutor.AssemblyInfoInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioConstrutor\obj\Debug\net7.0\ExercicioConstrutor.AssemblyInfo.cs
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioConstrutor\obj\Debug\net7.0\ExercicioConstrutor.csproj.CoreCompileInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioConstrutor\bin\Debug\net7.0\ExercicioConstrutor.exe
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioConstrutor\bin\Debug\net7.0\ExercicioConstrutor.deps.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioConstrutor\bin\Debug\net7.0\ExercicioConstrutor.runtimeconfig.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioConstrutor\bin\Debug\net7.0\ExercicioConstrutor.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioConstrutor\bin\Debug\net7.0\ExercicioConstrutor.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioConstrutor\obj\Debug\net7.0\ExercicioConstrutor.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioConstrutor\obj\Debug\net7.0\refint\ExercicioConstrutor.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioConstrutor\obj\Debug\net7.0\ExercicioConstrutor.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioConstrutor\obj\Debug\net7.0\ExercicioConstrutor.genruntimeconfig.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioConstrutor\obj\Debug\net7.0\ref\ExercicioConstrutor.dll
