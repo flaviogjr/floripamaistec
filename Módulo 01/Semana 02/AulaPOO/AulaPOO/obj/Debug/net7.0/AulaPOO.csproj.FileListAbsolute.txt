@@ -1,0 +1,15 @@
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 02\AulaPOO\AulaPOO\bin\Debug\net7.0\AulaPOO.exe
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 02\AulaPOO\AulaPOO\bin\Debug\net7.0\AulaPOO.deps.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 02\AulaPOO\AulaPOO\bin\Debug\net7.0\AulaPOO.runtimeconfig.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 02\AulaPOO\AulaPOO\bin\Debug\net7.0\AulaPOO.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 02\AulaPOO\AulaPOO\bin\Debug\net7.0\AulaPOO.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 02\AulaPOO\AulaPOO\obj\Debug\net7.0\AulaPOO.csproj.AssemblyReference.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 02\AulaPOO\AulaPOO\obj\Debug\net7.0\AulaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 02\AulaPOO\AulaPOO\obj\Debug\net7.0\AulaPOO.AssemblyInfoInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 02\AulaPOO\AulaPOO\obj\Debug\net7.0\AulaPOO.AssemblyInfo.cs
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 02\AulaPOO\AulaPOO\obj\Debug\net7.0\AulaPOO.csproj.CoreCompileInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 02\AulaPOO\AulaPOO\obj\Debug\net7.0\AulaPOO.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 02\AulaPOO\AulaPOO\obj\Debug\net7.0\refint\AulaPOO.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 02\AulaPOO\AulaPOO\obj\Debug\net7.0\AulaPOO.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 02\AulaPOO\AulaPOO\obj\Debug\net7.0\AulaPOO.genruntimeconfig.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 02\AulaPOO\AulaPOO\obj\Debug\net7.0\ref\AulaPOO.dll
