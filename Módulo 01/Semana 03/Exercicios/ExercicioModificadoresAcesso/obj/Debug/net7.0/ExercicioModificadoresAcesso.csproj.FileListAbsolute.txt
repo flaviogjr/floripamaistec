@@ -1,0 +1,15 @@
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioModificadoresAcesso\bin\Debug\net7.0\ExercicioModificadoresAcesso.exe
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioModificadoresAcesso\bin\Debug\net7.0\ExercicioModificadoresAcesso.deps.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioModificadoresAcesso\bin\Debug\net7.0\ExercicioModificadoresAcesso.runtimeconfig.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioModificadoresAcesso\bin\Debug\net7.0\ExercicioModificadoresAcesso.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioModificadoresAcesso\bin\Debug\net7.0\ExercicioModificadoresAcesso.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioModificadoresAcesso\obj\Debug\net7.0\ExercicioModificadoresAcesso.csproj.AssemblyReference.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioModificadoresAcesso\obj\Debug\net7.0\ExercicioModificadoresAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioModificadoresAcesso\obj\Debug\net7.0\ExercicioModificadoresAcesso.AssemblyInfoInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioModificadoresAcesso\obj\Debug\net7.0\ExercicioModificadoresAcesso.AssemblyInfo.cs
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioModificadoresAcesso\obj\Debug\net7.0\ExercicioModificadoresAcesso.csproj.CoreCompileInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioModificadoresAcesso\obj\Debug\net7.0\ExercicioModificadoresAcesso.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioModificadoresAcesso\obj\Debug\net7.0\refint\ExercicioModificadoresAcesso.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioModificadoresAcesso\obj\Debug\net7.0\ExercicioModificadoresAcesso.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioModificadoresAcesso\obj\Debug\net7.0\ExercicioModificadoresAcesso.genruntimeconfig.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\Exercicios\ExercicioModificadoresAcesso\obj\Debug\net7.0\ref\ExercicioModificadoresAcesso.dll

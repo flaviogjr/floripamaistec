@@ -1,0 +1,15 @@
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaEncapsulamento\bin\Debug\net7.0\AulaEncapsulamento.exe
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaEncapsulamento\bin\Debug\net7.0\AulaEncapsulamento.deps.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaEncapsulamento\bin\Debug\net7.0\AulaEncapsulamento.runtimeconfig.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaEncapsulamento\bin\Debug\net7.0\AulaEncapsulamento.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaEncapsulamento\bin\Debug\net7.0\AulaEncapsulamento.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaEncapsulamento\obj\Debug\net7.0\AulaEncapsulamento.csproj.AssemblyReference.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaEncapsulamento\obj\Debug\net7.0\AulaEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaEncapsulamento\obj\Debug\net7.0\AulaEncapsulamento.AssemblyInfoInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaEncapsulamento\obj\Debug\net7.0\AulaEncapsulamento.AssemblyInfo.cs
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaEncapsulamento\obj\Debug\net7.0\AulaEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaEncapsulamento\obj\Debug\net7.0\AulaEncapsulamento.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaEncapsulamento\obj\Debug\net7.0\refint\AulaEncapsulamento.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaEncapsulamento\obj\Debug\net7.0\AulaEncapsulamento.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaEncapsulamento\obj\Debug\net7.0\AulaEncapsulamento.genruntimeconfig.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaEncapsulamento\obj\Debug\net7.0\ref\AulaEncapsulamento.dll

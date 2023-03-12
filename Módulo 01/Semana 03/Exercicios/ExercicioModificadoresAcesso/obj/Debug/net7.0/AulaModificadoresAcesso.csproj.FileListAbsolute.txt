@@ -1,0 +1,15 @@
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaModificadoresAcesso\bin\Debug\net7.0\AulaModificadoresAcesso.exe
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaModificadoresAcesso\bin\Debug\net7.0\AulaModificadoresAcesso.deps.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaModificadoresAcesso\bin\Debug\net7.0\AulaModificadoresAcesso.runtimeconfig.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaModificadoresAcesso\bin\Debug\net7.0\AulaModificadoresAcesso.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaModificadoresAcesso\bin\Debug\net7.0\AulaModificadoresAcesso.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaModificadoresAcesso\obj\Debug\net7.0\AulaModificadoresAcesso.csproj.AssemblyReference.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaModificadoresAcesso\obj\Debug\net7.0\AulaModificadoresAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaModificadoresAcesso\obj\Debug\net7.0\AulaModificadoresAcesso.AssemblyInfoInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaModificadoresAcesso\obj\Debug\net7.0\AulaModificadoresAcesso.AssemblyInfo.cs
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaModificadoresAcesso\obj\Debug\net7.0\AulaModificadoresAcesso.csproj.CoreCompileInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaModificadoresAcesso\obj\Debug\net7.0\AulaModificadoresAcesso.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaModificadoresAcesso\obj\Debug\net7.0\refint\AulaModificadoresAcesso.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaModificadoresAcesso\obj\Debug\net7.0\AulaModificadoresAcesso.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaModificadoresAcesso\obj\Debug\net7.0\AulaModificadoresAcesso.genruntimeconfig.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaModificadoresAcesso\obj\Debug\net7.0\ref\AulaModificadoresAcesso.dll

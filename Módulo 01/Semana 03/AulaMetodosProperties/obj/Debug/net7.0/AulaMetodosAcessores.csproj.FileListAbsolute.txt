@@ -1,0 +1,15 @@
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosAcessores\bin\Debug\net7.0\AulaMetodosAcessores.exe
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosAcessores\bin\Debug\net7.0\AulaMetodosAcessores.deps.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosAcessores\bin\Debug\net7.0\AulaMetodosAcessores.runtimeconfig.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosAcessores\bin\Debug\net7.0\AulaMetodosAcessores.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosAcessores\bin\Debug\net7.0\AulaMetodosAcessores.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosAcessores\obj\Debug\net7.0\AulaMetodosAcessores.csproj.AssemblyReference.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosAcessores\obj\Debug\net7.0\AulaMetodosAcessores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosAcessores\obj\Debug\net7.0\AulaMetodosAcessores.AssemblyInfoInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosAcessores\obj\Debug\net7.0\AulaMetodosAcessores.AssemblyInfo.cs
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosAcessores\obj\Debug\net7.0\AulaMetodosAcessores.csproj.CoreCompileInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosAcessores\obj\Debug\net7.0\AulaMetodosAcessores.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosAcessores\obj\Debug\net7.0\refint\AulaMetodosAcessores.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosAcessores\obj\Debug\net7.0\AulaMetodosAcessores.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosAcessores\obj\Debug\net7.0\AulaMetodosAcessores.genruntimeconfig.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosAcessores\obj\Debug\net7.0\ref\AulaMetodosAcessores.dll

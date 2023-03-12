@@ -1,0 +1,5 @@
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\obj\Debug\net7.0\AulaMetodosProperties.csproj.AssemblyReference.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\obj\Debug\net7.0\AulaMetodosProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\obj\Debug\net7.0\AulaMetodosProperties.AssemblyInfoInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\obj\Debug\net7.0\AulaMetodosProperties.AssemblyInfo.cs
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\obj\Debug\net7.0\AulaMetodosProperties.csproj.CoreCompileInputs.cache

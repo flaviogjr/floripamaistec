@@ -1,0 +1,15 @@
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaHeranca\bin\Debug\net7.0\AulaHeranca.exe
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaHeranca\bin\Debug\net7.0\AulaHeranca.deps.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaHeranca\bin\Debug\net7.0\AulaHeranca.runtimeconfig.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaHeranca\bin\Debug\net7.0\AulaHeranca.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaHeranca\bin\Debug\net7.0\AulaHeranca.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaHeranca\obj\Debug\net7.0\AulaHeranca.csproj.AssemblyReference.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaHeranca\obj\Debug\net7.0\AulaHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaHeranca\obj\Debug\net7.0\AulaHeranca.AssemblyInfoInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaHeranca\obj\Debug\net7.0\AulaHeranca.AssemblyInfo.cs
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaHeranca\obj\Debug\net7.0\AulaHeranca.csproj.CoreCompileInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaHeranca\obj\Debug\net7.0\AulaHeranca.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaHeranca\obj\Debug\net7.0\refint\AulaHeranca.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaHeranca\obj\Debug\net7.0\AulaHeranca.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaHeranca\obj\Debug\net7.0\AulaHeranca.genruntimeconfig.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaHeranca\obj\Debug\net7.0\ref\AulaHeranca.dll

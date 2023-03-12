@@ -1,0 +1,15 @@
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\bin\Debug\net7.0\AulaProperties.exe
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\bin\Debug\net7.0\AulaProperties.deps.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\bin\Debug\net7.0\AulaProperties.runtimeconfig.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\bin\Debug\net7.0\AulaProperties.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\bin\Debug\net7.0\AulaProperties.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\obj\Debug\net7.0\AulaProperties.csproj.AssemblyReference.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\obj\Debug\net7.0\AulaProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\obj\Debug\net7.0\AulaProperties.AssemblyInfoInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\obj\Debug\net7.0\AulaProperties.AssemblyInfo.cs
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\obj\Debug\net7.0\AulaProperties.csproj.CoreCompileInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\obj\Debug\net7.0\AulaProperties.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\obj\Debug\net7.0\refint\AulaProperties.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\obj\Debug\net7.0\AulaProperties.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\obj\Debug\net7.0\AulaProperties.genruntimeconfig.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 03\AulaMetodosProperties\obj\Debug\net7.0\ref\AulaProperties.dll

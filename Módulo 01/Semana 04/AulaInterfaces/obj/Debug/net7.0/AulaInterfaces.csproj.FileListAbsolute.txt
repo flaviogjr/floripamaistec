@@ -1,0 +1,15 @@
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaInterfaces\bin\Debug\net7.0\AulaInterfaces.exe
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaInterfaces\bin\Debug\net7.0\AulaInterfaces.deps.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaInterfaces\bin\Debug\net7.0\AulaInterfaces.runtimeconfig.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaInterfaces\bin\Debug\net7.0\AulaInterfaces.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaInterfaces\bin\Debug\net7.0\AulaInterfaces.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaInterfaces\obj\Debug\net7.0\AulaInterfaces.csproj.AssemblyReference.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaInterfaces\obj\Debug\net7.0\AulaInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaInterfaces\obj\Debug\net7.0\AulaInterfaces.AssemblyInfoInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaInterfaces\obj\Debug\net7.0\AulaInterfaces.AssemblyInfo.cs
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaInterfaces\obj\Debug\net7.0\AulaInterfaces.csproj.CoreCompileInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaInterfaces\obj\Debug\net7.0\AulaInterfaces.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaInterfaces\obj\Debug\net7.0\refint\AulaInterfaces.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaInterfaces\obj\Debug\net7.0\AulaInterfaces.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaInterfaces\obj\Debug\net7.0\AulaInterfaces.genruntimeconfig.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\AulaInterfaces\obj\Debug\net7.0\ref\AulaInterfaces.dll
