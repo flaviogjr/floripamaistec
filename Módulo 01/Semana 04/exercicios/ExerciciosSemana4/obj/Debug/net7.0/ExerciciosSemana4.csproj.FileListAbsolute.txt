@@ -1,0 +1,15 @@
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\exercicios\ExerciciosSemana4\obj\Debug\net7.0\ExerciciosSemana4.csproj.AssemblyReference.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\exercicios\ExerciciosSemana4\obj\Debug\net7.0\ExerciciosSemana4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\exercicios\ExerciciosSemana4\obj\Debug\net7.0\ExerciciosSemana4.AssemblyInfoInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\exercicios\ExerciciosSemana4\obj\Debug\net7.0\ExerciciosSemana4.AssemblyInfo.cs
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\exercicios\ExerciciosSemana4\obj\Debug\net7.0\ExerciciosSemana4.csproj.CoreCompileInputs.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\exercicios\ExerciciosSemana4\bin\Debug\net7.0\ExerciciosSemana4.exe
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\exercicios\ExerciciosSemana4\bin\Debug\net7.0\ExerciciosSemana4.deps.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\exercicios\ExerciciosSemana4\bin\Debug\net7.0\ExerciciosSemana4.runtimeconfig.json
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\exercicios\ExerciciosSemana4\bin\Debug\net7.0\ExerciciosSemana4.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\exercicios\ExerciciosSemana4\bin\Debug\net7.0\ExerciciosSemana4.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\exercicios\ExerciciosSemana4\obj\Debug\net7.0\ExerciciosSemana4.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\exercicios\ExerciciosSemana4\obj\Debug\net7.0\refint\ExerciciosSemana4.dll
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\exercicios\ExerciciosSemana4\obj\Debug\net7.0\ExerciciosSemana4.pdb
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\exercicios\ExerciciosSemana4\obj\Debug\net7.0\ExerciciosSemana4.genruntimeconfig.cache
+C:\Dados\Estudos\Floripa Mais Tec\Full Stack\Repositório\floripamaistec\Módulo 01\Semana 04\exercicios\ExerciciosSemana4\obj\Debug\net7.0\ref\ExerciciosSemana4.dll
